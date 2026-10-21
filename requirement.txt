@@ -1,0 +1,8 @@
+youtube-transcript-api
+langchain-community
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+python-dotenv
+langchain-ollama
